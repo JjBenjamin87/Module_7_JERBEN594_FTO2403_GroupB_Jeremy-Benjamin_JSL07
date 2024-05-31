@@ -1,3 +1,7 @@
+JSL07 LOOM VIDEO LINK: [https://www.loom.com/share/eaa9fb255bfa4addb797bd9528cb1c39?sid=e9e65913-8dd6-435f-aa86-7c5a5fe78f80]
+
+
+
 # [JSL07] Submission: Proud of your Progress
 
 Create a personalized certificate of achievement with the "Proud of Your Progress Certificate Generator". This web application requires users to input their name, a personalized message, and the course name to dynamically generate a certificate displayed in a modal.
@@ -39,4 +43,3 @@ Partial implementation for collecting input values, where specific assignments a
 - **Commit History:** Your commit messages and history will reflect your development process.
 
 Get going and celebrate your progress 🥳🥳🥳
-
